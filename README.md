@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabrielamnzb
-- 👀 I’m interested in Front-End Development.
+- 👀 I’m interested in Front-End Development and Design UX.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 - 📫 @gabrielambarreto on LinkedIn
 - 📫 E-mail me: gabrielamnzbarreto@gmail.com
