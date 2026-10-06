@@ -1,7 +1,9 @@
-# Oi, eu sou a Gabriela Barreto 👋
+# Oi, eu sou a Gabriela 👋
 
 🎓 Estudante de Engenharia de Software na **UNIPAMPA**
+
 🎯 Em busca da primeira oportunidade em **desenvolvimento Back-End Java**
+
 💼 Há mais de 2 anos em suporte técnico na ONR, junto a equipes de desenvolvimento e infraestrutura
 
 ## 🛠️ Stack
@@ -22,8 +24,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielambarreto)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielamnzbarreto@gmail.com)
-
-📧 Email: gabrielamnzbarreto@gmail.com
 
 <!---
 gabrielamnzb/gabrielamnzb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
